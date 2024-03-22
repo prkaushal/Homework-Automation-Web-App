@@ -16,7 +16,7 @@ function Signup() {
         <Input type="Password" placeholder="Password" />
         <Input type="number" placeholder="Phone number" />
         
-        <Button1 >Create Account</Button1>
+        <Button1 >Create Accountt</Button1>
         
 
         
