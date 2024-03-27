@@ -1,16 +1,16 @@
-import React from "react";
-import NavBar from "./NavBar";
-import AutomateTask from "./AutomateTask";
+import React from 'react'
+import OptionCards from './OptionCards'
+import { Link } from 'react-router-dom'
+import NavBar from './NavBar'
+import Body from './Body'
 
 function Home() {
   return (
     <>
     <NavBar/>
-    <AutomateTask/>
-    
+    <Body/>
     </>
-    
-  );
+  )
 }
 
-export default Home;
+export default Home
