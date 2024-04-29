@@ -1,6 +1,6 @@
 import React from 'react'
 import OptionCards from './OptionCards'
-import { Link } from 'react-router-dom'
+import { Link, Outlet } from 'react-router-dom'
 import NavBar from './NavBar'
 import Body from './Body'
 

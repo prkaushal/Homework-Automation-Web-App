@@ -7,7 +7,7 @@ function NavBar() {
     <>
         <div className='bg-customGrey-800 flex px-10 py-2 justify-between items-center'>
             <img src={Logo} alt=""  className='w-44'/>
-            <div className='flex '>
+            <div className='flex'>
                 <ul className='flex gap-7 text-white'>
                     <li>Home</li>
                     <li>Chat</li>
